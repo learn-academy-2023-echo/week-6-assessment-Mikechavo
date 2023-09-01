@@ -79,7 +79,7 @@ const hodgepodge2 = [5, "Hola", 43, -34, "greetings", true]
 // use a for loop
 //create another variable holding the array and index. array[i]
 //create an if statment for typeof to strictly get the numbers 
-//use .push to add the elements to the array
+//use .push to add the elements to the array, which will be % 3
 
 const remaindersOf3 = (array) => {
   const remainders = [];

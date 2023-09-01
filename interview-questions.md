@@ -68,3 +68,63 @@ action: "DELETE" location: /students/2
 - destroy
   - deletes student
 5. As a developer, you are making an application to manage your to do list. Create 10 user stories that will help you get your application started. [Here is a resource](https://www.atlassian.com/agile/project-management/user-stories) to help you create your user stories.
+
+Story 1: Creating a Game
+
+As a Game Enthusiast, I want to add a new video game to my collection, so I can keep track of the games I own.
+
+Branch: game-creation
+
+Story 2: Viewing All Games
+
+As a Game Enthusiast, I want to view a list of all the video games in my collection, so I can see an overview of my game library.
+
+Branch: game-list
+
+Story 3: Viewing a Single Game
+
+As a Game Enthusiast, I want to view detailed information about a specific video game in my collection, so I can learn more about it.
+
+Branch: game-details
+
+Story 4: Updating a Game
+
+As a Game Enthusiast, I want to update the information of a video game in my collection, so I can keep my library up to date.
+
+Branch: game-update
+
+Story 5: Deleting a Game
+
+As a Game Enthusiast, I want to remove a video game from my collection, so I can manage my library more efficiently.
+
+Branch: game-deletion
+
+Story 6: Creating a Game Developer Table
+
+As a Game Enthusiast, I want to create a table to store information about video game developers, so I can track the creators of my favorite games.
+
+Branch: developer-table-creation
+
+Story 7: Adding a Game Developer
+
+As a Game Enthusiast, I want to add a new game developer to the database, so I can associate developers with the games they've created.
+
+Branch: developer-creation
+
+Story 8: Updating a Game Developer
+
+As a Game Enthusiast, I want to update the information of a game developer in the database, so I can keep developer details up to date.
+
+Branch: developer-update
+
+Story 9: Deleting a Game Developer
+
+As a Game Enthusiast, I want to remove a game developer from the database, so I can manage developer records efficiently.
+
+Branch: developer-deletion
+
+Story 10: Associating Games with Developers
+
+As a Game Enthusiast, I want to associate video games with their respective developers, so I can easily access information about the creators of each game.
+
+Branch: game-developer-association
